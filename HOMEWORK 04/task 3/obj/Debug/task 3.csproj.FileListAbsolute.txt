@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\task 3\bin\Debug\task 3.exe.config
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\task 3\bin\Debug\task 3.exe
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\task 3\bin\Debug\task 3.pdb
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\task 3\obj\Debug\task 3.exe
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\task 3\obj\Debug\task 3.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\bin\Debug\task 3.exe.config
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\obj\Debug\task 3.exe
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\obj\Debug\task 3.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\bin\Debug\task 3.exe
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\bin\Debug\task 3.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\task 3\obj\Debug\task 3.csprojResolveAssemblyReference.cache

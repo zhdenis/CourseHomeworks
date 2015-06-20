@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Denis\Desktop\VS\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Denis\Desktop\CourseHomeworks\HOMEWORK 04\ConsoleApplication1\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
